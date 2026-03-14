@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CalculadoraLoja {
-
+System.out.println("Sistema da loja da Dona Gabrielinha");
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
